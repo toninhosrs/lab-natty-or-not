@@ -27,6 +27,12 @@ Depois com o roteiro, conteúdo e imagens eu usei o Canva para editar e finaliza
 - E-book: Um e-book de 10 páginas, combinando texto envolvente com imagens impactantes.
 - Imagens: Conjunto de imagens geradas por IA que ilustram maravilhosamente o e-book.
 
+## 📖 Acesse o eBook  
+
+Você pode baixar ou visualizar o eBook completo clicando no link abaixo:  
+
+[📘 IAs Generativas e seu papel nos dias de hoje](https://github.com/toninhosrs/lab-natty-or-not/blob/main/IAs%20Generativas%20e%20seu%20papel%20nos%20dias%20de%20hoje.pdf) 
+
 ## 💭 Reflexão (Opcional)
 Este projeto foi desenvolvido como parte do **Desafio da DIO - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!**, que propunha criar algo *"natty"* utilizando inteligência artificial. O termo *"natty"* pode ser interpretado como algo inovador, criativo e naturalmente fluído.  
 
