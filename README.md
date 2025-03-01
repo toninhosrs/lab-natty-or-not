@@ -1,51 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 📘 - IAs Generativas e seu papel nos dias de hoje
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este repositório contém um eBook criado como parte do **Desafio da DIO - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!**, explorando o impacto das Inteligências Artificiais Generativas na sociedade atual. O material aborda desde conceitos básicos até aplicações práticas, benefícios, desafios e perspectivas para o futuro da IA.  
+
+🚀 **Tópicos abordados:**  
+- O que são IAs Generativas  
+- Aplicações no mundo real  
+- Benefícios e desafios  
+- O futuro da inteligência artificial  
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- ChatGpt
+- Gerador de imagens de IA da Microsoft
+- Leonardo.ai
+- Photo Editor Pixlr
+- Photoshop
+- Paint
+- Canva.com
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usando o ChatGPT, eu pedi que ele criasse um roteiro de um ebook de até 10 páginas com o título "IAs Generativas e seu papel nos dias de hoje" Ainda no ChatGPT pedi para que ele criasse um PROMPT para que as imagens da capa e demais imagem para o livro fossem criadas em gerador de imagens por IA como o Gerador de imagens de IA da Microsoft, Leonardo.ai e o Photo Editor Pixlr.
+Usei o Paint do Windows 11 e o Adobe Photoshop para editar as imagens geradas po IA.
+Depois com o roteiro, conteúdo e imagens eu usei o Canva para editar e finalizar o e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- E-book: Um e-book de 10 páginas, combinando texto envolvente com imagens impactantes.
+- Imagens: Conjunto de imagens geradas por IA que ilustram maravilhosamente o e-book.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Este projeto foi desenvolvido como parte do **Desafio da DIO - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!**, que propunha criar algo *"natty"* utilizando inteligência artificial. O termo *"natty"* pode ser interpretado como algo inovador, criativo e naturalmente fluído.  
 
-### Exemplos e Insigths
+Criar um eBook com IA se encaixa perfeitamente nessa proposta, pois mostra como a tecnologia pode ser usada para gerar conhecimento e conteúdo de forma acessível e impactante. A inteligência artificial não apenas auxilia na criação de textos, mas também na geração de imagens, código e muito mais, tornando o processo mais ágil e eficiente.  
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este desafio foi uma ótima oportunidade para explorar o potencial das IAs generativas e refletir sobre seu papel no mundo atual. 🚀  
